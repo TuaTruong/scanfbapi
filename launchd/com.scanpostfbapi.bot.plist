@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>Label</key><string>com.scanpostfbapi.bot</string>
+  <key>ProgramArguments</key><array>
+    <string>/Applications/XAMPP/xamppfiles/bin/php</string>
+    <string>/Applications/XAMPP/scanpostfbapi/bin/bot.php</string>
+  </array>
+  <key>WorkingDirectory</key><string>/Applications/XAMPP/scanpostfbapi</string>
+  <key>RunAtLoad</key><true/>
+  <key>KeepAlive</key><true/>
+  <key>ThrottleInterval</key><integer>10</integer>
+  <key>StandardOutPath</key><string>/Applications/XAMPP/scanpostfbapi/storage/logs/bot.log</string>
+  <key>StandardErrorPath</key><string>/Applications/XAMPP/scanpostfbapi/storage/logs/bot.log</string>
+</dict></plist>

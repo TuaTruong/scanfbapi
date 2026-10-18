@@ -1,0 +1,425 @@
+[2026-10-18 01:48:14] [scanner] Khởi động (PID 13652, PHP 8.2.4)
+[2026-10-18 01:48:14] [scanner] Đang tắt quét (bật trên web)
+[2026-10-18 02:51:52] [scanner] Nhận tín hiệu dừng, sẽ thoát sau bước hiện tại
+[2026-10-18 02:51:52] [scanner] Đã dừng
+[2026-10-18 02:51:52] [scanner] Khởi động (PID 22908, PHP 8.2.4)
+[2026-10-18 02:51:52] [scanner] Đang tắt quét (bật trên web)
+[2026-10-18 02:56:30] [scanner] Đợt #1 bắt đầu: 2 group đến hạn
+[2026-10-18 02:56:34] [scanner]   VPS MIN – Proxy, VPS giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller)
+[2026-10-18 02:56:41] [scanner]   J2TEAM Community: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 02:56:41] [scanner] Đợt #1 xong: 2 group, 2 lần gọi API, 2 credit, 4 bài mới, 0 lỗi. Đợt kế tiếp lúc 2026-10-18 02:57:41
+[2026-10-18 02:56:42] [scanner] Đang nghỉ, đợt kế tiếp lúc 2026-10-18 02:57:41
+[2026-10-18 02:57:41] [scanner] Đợt #2 bắt đầu: 1 group đến hạn
+[2026-10-18 02:57:50] [scanner]   VPS MIN – Proxy, VPS giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller)
+[2026-10-18 02:57:50] [scanner] Đợt #2 xong: 1 group, 1 lần gọi API, 1 credit, 0 bài mới, 0 lỗi. Đợt kế tiếp lúc 2026-10-18 02:58:50
+[2026-10-18 02:57:51] [scanner] Đang nghỉ, đợt kế tiếp lúc 2026-10-18 02:58:50
+[2026-10-18 02:58:51] [scanner] Đợt #3 bắt đầu: 2 group đến hạn
+[2026-10-18 02:58:56] [scanner]   VPS MIN – Proxy, VPS giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller)
+[2026-10-18 02:59:05] [scanner]   J2TEAM Community: 1 trang, 0 bài mới (0 gửi, 0 seller)
+[2026-10-18 02:59:05] [scanner] Đợt #3 xong: 2 group, 2 lần gọi API, 2 credit, 0 bài mới, 0 lỗi. Đợt kế tiếp lúc 2026-10-18 03:00:05
+[2026-10-18 02:59:06] [scanner] Đang nghỉ, đợt kế tiếp lúc 2026-10-18 03:00:05
+[2026-10-18 03:00:05] [scanner] Đợt #4 bắt đầu: 1 group đến hạn
+[2026-10-18 03:00:18] [scanner]   VPS MIN – Proxy, VPS giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller)
+[2026-10-18 03:00:18] [scanner] Đợt #4 xong: 1 group, 1 lần gọi API, 1 credit, 0 bài mới, 0 lỗi. Đợt kế tiếp lúc 2026-10-18 03:01:18
+[2026-10-18 03:00:19] [scanner] Đang nghỉ, đợt kế tiếp lúc 2026-10-18 03:01:18
+[2026-10-18 03:01:18] [scanner] Đợt #5 bắt đầu: 2 group đến hạn
+[2026-10-18 03:01:26] [scanner]   VPS MIN – Proxy, VPS giá rẻ: 2 trang, 7 bài mới (7 gửi, 0 seller), ⚠️ chạm trần số trang
+[2026-10-18 03:01:33] [scanner]   J2TEAM Community: 1 trang, 0 bài mới (0 gửi, 0 seller)
+[2026-10-18 03:01:33] [scanner] Đợt #5 xong: 2 group, 3 lần gọi API, 3 credit, 7 bài mới, 0 lỗi. Đợt kế tiếp lúc 2026-10-18 03:02:33
+[2026-10-18 03:01:34] [scanner] Đang nghỉ, đợt kế tiếp lúc 2026-10-18 03:02:33
+[2026-10-18 03:02:17] [scanner] Đang tắt quét (bật trên web)
+[2026-10-18 03:03:02] [scanner] Nhận tín hiệu dừng, sẽ thoát sau bước hiện tại
+[2026-10-18 03:03:02] [scanner] Đã dừng
+[2026-10-18 03:03:02] [scanner] Khởi động (PID 46800, PHP 8.2.4)
+[2026-10-18 03:03:02] [scanner] Đang tắt quét (bật trên web)
+[2026-10-18 03:03:13] [scanner] Đợt #6 bắt đầu: 2 group đến hạn
+[2026-10-18 03:03:17] [scanner]   VPS MIN – Proxy, VPS giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller)
+[2026-10-18 03:03:23] [scanner]   J2TEAM Community: 1 trang, 0 bài mới (0 gửi, 0 seller)
+[2026-10-18 03:03:23] [scanner] Đợt #6 xong: 2 group, 2 lần gọi API, 2 credit, 0 bài mới, 0 lỗi. Đợt kế tiếp lúc 2026-10-18 03:18:23
+[2026-10-18 03:03:24] [scanner] Ngoài khung giờ 07:30–00:00, chờ
+[2026-10-18 03:05:33] [scanner] Nhận tín hiệu dừng, sẽ thoát sau bước hiện tại
+[2026-10-18 03:05:33] [scanner] Đã dừng
+[2026-10-18 03:05:33] [scanner] Khởi động (PID 52907, PHP 8.2.4)
+[2026-10-18 03:05:33] [scanner] Ngoài khung giờ 07:30–00:00, chờ
+[2026-10-18 03:08:09] [scanner] Nhận tín hiệu dừng, sẽ thoát sau bước hiện tại
+[2026-10-18 03:08:09] [scanner] Đã dừng
+[2026-10-18 03:08:09] [scanner] Khởi động (PID 59632, PHP 8.2.4)
+[2026-10-18 03:08:09] [scanner] Ngoài khung giờ 07:30–00:00, chờ
+[2026-10-18 03:11:01] [scanner] Đợt #7 bắt đầu: 144 group đến hạn
+[2026-10-18 03:11:04] [scanner]   1004686161347495: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:11:16] [scanner]   1042009496499838: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:11:19] [scanner]   1122068665310735: 1 trang, 3 bài mới (3 gửi, 0 seller)
+[2026-10-18 03:11:24] [scanner]   1163783417960325: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:11:28] [scanner]   1163787441488087: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:11:36] [scanner]   1192320424779644: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:11:40] [scanner]   1236843840068278: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:11:45] [scanner]   1242735286540985: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:11:48] [scanner]   1404658569781139: 1 trang, 3 bài mới (3 gửi, 0 seller)
+[2026-10-18 03:11:54] [scanner]   1450315766877841: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:11:58] [scanner]   1601048606962487: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:12:05] [scanner]   1680623802486951: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:12:08] [scanner]   1880478522508183: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:12:12] [scanner]   1920248858770907: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:12:25] [scanner]   193888732473220: 1 trang, 0 bài mới (0 gửi, 0 seller)
+[2026-10-18 03:12:30] [scanner]   2018165638381128: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:12:33] [scanner]   206998439929572: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:12:37] [scanner]   2099199077022814: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 2 bài quá cũ
+[2026-10-18 03:12:40] [scanner]   226130808513641: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:12:43] [scanner]   235581957111018: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:12:46] [scanner]   236543990198908: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:12:51] [scanner]   2418955748259660: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:12:54] [scanner]   276932765415941: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:12:56] [scanner]   2815795958731205: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 2 bài quá cũ
+[2026-10-18 03:13:01] [scanner]   365955566284734: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:13:06] [scanner]   3681301575494964: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:13:13] [scanner]   375801675287876: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:13:17] [scanner]   390904675244212: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:13:20] [scanner]   427773255097373: 1 trang, 3 bài mới (3 gửi, 0 seller)
+[2026-10-18 03:13:24] [scanner]   470479764555596: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:13:28] [scanner]   508955440422724: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:13:31] [scanner]   511533710003268: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 2 bài quá cũ
+[2026-10-18 03:13:55] [scanner]   5352737264834297: 1 trang, 3 bài mới (3 gửi, 0 seller)
+[2026-10-18 03:14:01] [scanner]   568935040435125: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:14:07] [scanner]   570078646475605: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:14:12] [scanner]   595145324792696: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:14:18] [scanner]   611167924795673: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:14:21] [scanner]   676117306134993: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:14:26] [scanner]   692063539119797: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:14:31] [scanner]   693678590825405: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:14:35] [scanner]   703000530837382: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 2 bài quá cũ
+[2026-10-18 03:14:40] [scanner]   742645873981581: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:14:44] [scanner]   743365007532542: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:14:56] [scanner]   755798908831889: 1 trang, 0 bài mới (0 gửi, 0 seller)
+[2026-10-18 03:15:01] [scanner]   872054642503307: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:15:05] [scanner]   962799748677370: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:15:10] [scanner]   993936881640328: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:15:15] [scanner]   460381752310905: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 2 bài quá cũ
+[2026-10-18 03:15:18] [scanner]   1020284164659043: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:15:30] [scanner]   441842879312884: 1 trang, 0 bài mới (0 gửi, 0 seller)
+[2026-10-18 03:15:34] [scanner]   1609620779358237: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:15:41] [scanner]   1627440141414113: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:15:45] [scanner]   300470776735434: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:15:52] [scanner]   1927105927545387: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:15:56] [scanner]   599677188066116: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:16:08] [scanner]   352172315234104: 1 trang, 0 bài mới (0 gửi, 0 seller)
+[2026-10-18 03:16:13] [scanner]   518088369907809: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:16:18] [scanner]   295202195411167: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:16:23] [scanner]   1158305651693599: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:16:27] [scanner]   2099438084252209: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:16:31] [scanner]   309881230648362: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 2 bài quá cũ
+[2026-10-18 03:16:35] [scanner]   751457037009115: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:16:39] [scanner]   208904531087803: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:16:47] [scanner]   1272538340030570: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 2 bài quá cũ
+[2026-10-18 03:16:51] [scanner]   1520759765354685: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:16:54] [scanner]   806207094242810: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:17:01] [scanner]   388062273241410: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:17:06] [scanner]   848271590290354: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:17:12] [scanner]   1732876157182078: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:17:15] [scanner]   298922231322362: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:17:20] [scanner]   142382802266335: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:17:25] [scanner]   936588302874112: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:17:29] [scanner]   1734079557114818: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:17:32] [scanner]   1067283245407652: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:17:39] [scanner]   827091161573765: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 2 bài quá cũ
+[2026-10-18 03:17:48] [scanner]   1946425032395336: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:17:51] [scanner]   1167734853400542: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:17:55] [scanner]   586446396717030: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 2 bài quá cũ
+[2026-10-18 03:17:58] [scanner]   1652419592262147: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:18:01] [scanner]   987426879129699: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:18:06] [scanner]   1145883693378353: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:18:13] [scanner]   1366268694021626: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:18:19] [scanner]   467071827005982: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 2 bài quá cũ
+[2026-10-18 03:18:29] [scanner]   818867383137999: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:18:34] [scanner]   617333646760689: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:18:38] [scanner]   925024387596932: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:18:43] [scanner]   344797401276351: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:18:54] [scanner]   469403964512970: 1 trang, 0 bài mới (0 gửi, 0 seller)
+[2026-10-18 03:18:57] [scanner]   446758698462786: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:19:05] [scanner]   816316719147141: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:19:13] [scanner]   1312459627460423: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:19:18] [scanner]   1419745994795916: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:19:21] [scanner]   171638761730154: 1 trang, 3 bài mới (3 gửi, 0 seller)
+[2026-10-18 03:19:26] [scanner]   386405049923138: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 2 bài quá cũ
+[2026-10-18 03:19:31] [scanner]   1122913662674948: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:19:35] [scanner]   2118328411872035: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:19:42] [scanner]   1080450109856197: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:19:46] [scanner]   1455393668138342: 1 trang, 3 bài mới (3 gửi, 0 seller)
+[2026-10-18 03:19:50] [scanner]   832793975891189: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:19:58] [scanner]   1079521084205379: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:20:07] [scanner]   1373655786831888: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:20:12] [scanner]   732003635748425: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:20:21] [scanner]   824072909596676: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:20:24] [scanner]   1347806935807772: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:20:29] [scanner]   978578196214786: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:20:34] [scanner]   865727981636454: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:20:38] [scanner]   1220939526440948: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:20:41] [scanner]   384818232205308: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:20:45] [scanner]   1054788086515910: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:20:49] [scanner]   311940954644654: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:20:52] [scanner]   250991974151643: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:20:57] [scanner]   1623954125013761: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:21:00] [scanner]   1094680971866814: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:21:07] [scanner]   260527843396507: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:21:46] [scanner]   1462974984562893: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:21:50] [scanner]   210779264555278: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:21:56] [scanner]   5121429181259753: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:22:00] [scanner]   720482407688588: 1 trang, 2 bài mới (2 gửi, 0 seller), bỏ qua 2 bài quá cũ
+[2026-10-18 03:22:05] [scanner]   987293238974787: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:22:11] [scanner]   2219428048371747: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:22:22] [scanner]   371012568842223: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:22:26] [scanner]   363465454316985: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:22:36] [scanner]   2473181652950403: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:22:40] [scanner]   1446048042894466: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:22:46] [scanner]   5712225575524720: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:22:51] [scanner]   1047372863215033: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:22:56] [scanner]   169485929909335: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:23:02] [scanner]   705828953691308: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:23:07] [scanner]   446843435765661: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:23:11] [scanner]   990102272734005: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:23:14] [scanner]   1147646313849639: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:23:18] [scanner]   1058241822895918: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:23:21] [scanner]   857901673415241: 1 trang, 3 bài mới (3 gửi, 0 seller)
+[2026-10-18 03:23:28] [scanner]   1443401583149134: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:23:32] [scanner]   428946672906119: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:23:35] [scanner]   1484756499870430: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:23:39] [scanner]   1211367737501114: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:23:43] [scanner]   688169786651896: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:23:46] [scanner]   2988031518070954: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:23:50] [scanner]   591342723516759: 1 trang, 3 bài mới (3 gửi, 0 seller), bỏ qua 1 bài quá cũ
+[2026-10-18 03:23:56] [scanner]   1023642501057106: 1 trang, 4 bài mới (4 gửi, 0 seller)
+[2026-10-18 03:24:03] [scanner]   863141545239528: 1 trang, 0 bài mới (0 gửi, 0 seller), bỏ qua 4 bài quá cũ
+[2026-10-18 03:24:07] [scanner]   242036110634600: 1 trang, 3 bài mới (3 gửi, 0 seller)
+[2026-10-18 03:24:10] [scanner]   1783960058622346: 1 trang, 1 bài mới (1 gửi, 0 seller), bỏ qua 3 bài quá cũ
+[2026-10-18 03:24:10] [scanner] Đợt #7 xong: 144 group, 145 lần gọi API, 144 credit, 245 bài mới, 0 lỗi. Đợt kế tiếp lúc 2026-10-18 03:39:10
+[2026-10-18 03:24:10] [scanner] Nhận tín hiệu dừng, sẽ thoát sau bước hiện tại
+[2026-10-18 03:24:10] [scanner] Đã dừng
+[2026-10-18 03:24:11] [scanner] Khởi động (PID 97291, PHP 8.2.4)
+[2026-10-18 03:24:11] [scanner] Ngoài khung giờ 07:30–00:00, chờ
+[2026-10-18 03:27:41] [scanner] Nhận tín hiệu dừng, sẽ thoát sau bước hiện tại
+[2026-10-18 03:27:41] [scanner] Đã dừng
+[2026-10-18 03:27:41] [scanner] Khởi động (PID 4817, PHP 8.2.4)
+[2026-10-18 03:27:41] [scanner] Ngoài khung giờ 07:30–00:00, chờ
+[2026-10-18 03:28:35] [scanner] Đợt #8 bắt đầu: 144 group đến hạn
+[2026-10-18 03:28:39] [scanner]   Proxy Review - Nguồn Mua Proxy Uy Tín ✅: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung), bỏ qua 1 bài quá cũ
+[2026-10-18 03:28:42] [scanner]   Cộng Đồng VPS Việt Nam - VPS Free Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:28:46] [scanner]   Cộng đồng VPS Việt Nam - VPS Trial: 1 trang, 1 bài mới (0 gửi, 0 seller, 1 trùng nội dung)
+[2026-10-18 03:28:50] [scanner]   VPS Trail - VPS Việt Nam - Sever: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:28:57] [scanner]   HỖ TRỢ LẬP TRÌNH - CODE THEO YÊU CẦU: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:29:10] [scanner]   Cộng đồng Proxy , Vps , Giả Lập, Game, Mmo: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:29:14] [scanner]   Cộng Đồng Vps Việt Nam, Vps Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:29:26] [scanner]   VPS Chính Hãng Giá 50k: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:29:30] [scanner]   Cộng đồng VPS Việt Nam: 1 trang, 1 bài mới (0 gửi, 0 seller, 1 trùng nội dung)
+[2026-10-18 03:29:34] [scanner]   VPS Không Ngon Xóa Group - VPS Chính Hãng ☑️: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:29:38] [scanner]   Cộng Đồng Trao Đổi Proxy - VPS - Hosting: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:29:47] [scanner]   FREE PROXY-VPS :PROXY/VPS chia sẻ kiến thức Tool,AMZ,ebay,Drop.v.v..: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:29:51] [scanner]   Cộng Đồng VPS & Proxy Việt Nam  🇻🇳: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:29:54] [scanner]   Cộng đồng Proxy , Vps , Giả Lập, Game, Mmo ✅: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:30:06] [scanner]   Cộng đồng VPS VIỆT NAM - VPS FREE TRIAL: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:30:09] [scanner]   Cộng Đồng VPS Treo Game Giá Rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:30:13] [scanner]   VPS Không Ngon Xóa Group - VPS Chính Hãng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:30:17] [scanner]   Free VPS Windows - VPS Miễn Phí: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung), bỏ qua 1 bài quá cũ
+[2026-10-18 03:30:21] [scanner]   Cộng Đồng VPS Việt ☢️: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:30:25] [scanner]   Nhóm VPS Chính Hãng Giá Rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:30:33] [scanner]   Cộng đồng VPS free - mua bán VPS, proxy giá rẻ: 3 trang, 7 bài mới (0 gửi, 2 seller, 5 trùng nội dung), bỏ qua 3 bài quá cũ
+[2026-10-18 03:30:41] [scanner]   Proxy, MMO, VPS, Antidetect & Emulator Community: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:30:46] [scanner]   Cộng Đồng VPS VN - VPS Trial - Web Hosting - Server: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:30:50] [scanner]   Free VPS Windows - VPS Miễn Phí - share VPS miễn phí - mua bán VPS: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:30:56] [scanner]   Cộng Đồng VPS Việt Nam & VPS Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:31:01] [scanner] Nhận tín hiệu dừng, sẽ thoát sau bước hiện tại
+[2026-10-18 03:31:01] [scanner]   ERENPROXY - Trao đổi mua bán VPS, Proxy: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:31:01] [scanner] Khởi động (PID 13253, PHP 8.2.4)
+[2026-10-18 03:31:01] [scanner] Ngoài khung giờ 07:30–00:00, chờ
+[2026-10-18 03:31:33] [scanner] Đợt #8 bắt đầu: 118 group đến hạn
+[2026-10-18 03:31:38] [scanner]   VPS & hosting ở đâu ngon?: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:31:42] [scanner]   Cộng đồng Server - VPS - Proxy Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:31:45] [scanner]   VPS Không Ngon Xóa Group - Cloud VPS Việt Nam: 1 trang, 1 bài mới (1 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:31:49] [scanner]   FREE VPS/PROXY & Ebay,Tool,Amz..v.v...: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:31:54] [scanner]   Free VPS Windows - VPS Miễn Phí - share VPS miễn phí - mua bán VPS: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:31:59] [scanner]   VPS Linux Giá Rẻ – Ubuntu & Cloud Server: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:32:03] [scanner]   Chợ Proxy - Mua bán proxy - VPS giá rẻ: 1 trang, 1 bài mới (1 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:32:07] [scanner]   Cộng đồng : Proxy, VPS, MMO, Proxy Xoay, Proxy Tĩnh, Proxy Dân Cư IPV4: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:32:11] [scanner]   Cộng đồng VPS Việt Nam - VPS giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:32:15] [scanner]   Cộng Đồng VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:32:18] [scanner]   VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:32:22] [scanner]   VPS - Proxy - Cloud Phone - Treo Game 24/7: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:32:25] [scanner]   Cộng đồng Proxy - VPS - Server MMO giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:32:30] [scanner]   VPS Myanmar Group: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:32:43] [scanner]   Socks - Proxy - VPS | Free Or Cheap: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:32:47] [scanner]   VPS Giá Rẻ - Hosting - Proxy: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:32:50] [scanner]   Cộng đồng Server - VPS - Proxy Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:33:01] [scanner]   755798908831889: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:33:06] [scanner]   Cộng Đồng Proxy Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:33:10] [scanner]   VPS Không Ngon Xoá Group: 1 trang, 1 bài mới (0 gửi, 0 seller, 1 trùng nội dung), bỏ qua 3 bài quá cũ
+[2026-10-18 03:33:14] [scanner]   Proxy Xoay - Proxy Wan - Proxy Datacenter - Proxy Dân Cư: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:33:19] [scanner]   Cộng Đồng VPS - Proxy private - VIETNAM: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:33:23] [scanner]   Windows VPS Server: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung), bỏ qua 1 bài quá cũ
+[2026-10-18 03:33:35] [scanner]   VPS SERVER: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:33:38] [scanner]   VPS - HOSTING - SERVER - MÁY CHỦ VIỆT NAM: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:34:15] [scanner]   Cộng đồng VPS Chính hãng tại Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:34:19] [scanner]   Cộng Đồng VPS Việt Nam Chính Hãng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:34:24] [scanner]   Cộng Đồng Stream - Setup Stream - DC Hiệu ứng live: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:34:32] [scanner]   Cộng đồng Proxy - VPS - Server MMO giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:34:48] [scanner]   Cộng đồng VPS PROXY Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:34:51] [scanner]   VPS Việt Nam treo game: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:34:55] [scanner]   Cộng Đồng Linux VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:34:58] [scanner]   VPS Free - VPS Chính Hãng - VPS Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:03] [scanner]   Cộng Đồng VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:08] [scanner]   Cộng đồng VPS - RDP Việt Nam ☑️: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:12] [scanner]   Cộng Đồng VPS Trail & VPS Chính Hãng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:17] [scanner]   Cộng đồng Proxy Server VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:22] [scanner]   Cộng đồng VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:27] [scanner]   Cộng đồng VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:29] [scanner]   VPS VIỆT NAM: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:33] [scanner]   Cộng Đồng VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:35] [scanner]   Cộng Đồng VPS - SERVER Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:41] [scanner]   VPS Giá Tốt - VPS/RDP Cheap: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:45] [scanner]   Cộng Đồng VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:50] [scanner]   VPS Free - VPS Giá Rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:54] [scanner]   Cộng Đồng VPS Việt Nam - VPS Chính Hãng Giá Rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:35:57] [scanner]   VPS Việt Nam - VPS FREE - SEVER: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:36:00] [scanner]   Cộng Đồng VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:36:04] [scanner]   Cộng Đồng VPS Việt Nam ✅: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:36:13] [scanner]   Cộng Đồng VPS Trial & VPS Chính Hãng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:36:17] [scanner]   Cộng Đồng VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:36:22] [scanner]   VPS Linux Giá Rẻ – Ubuntu & Cloud Server: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:36:59] [scanner]   VPS Giá Rẻ - VPS Free: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:37:04] [scanner]   Cộng Đồng VPS Việt Nam - VPS Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:37:08] [scanner]   Cộng đồng VPS Trial -  VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:37:12] [scanner]   CLOUD VPS Việt Nam - VPS FREE TRIAL - VPS chất lượng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:37:17] [scanner]   Cộng đồng VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:37:20] [scanner]   Proxy Review: Chia Sẻ Kiến Thức & Nguồn Mua Proxy Uy Tín: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:37:24] [scanner]   Cộng đồng hỗ trợ Server, Cloud Server, VPS, Hosting, Domain: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:37:27] [scanner]   Mua bán VPS, Domain, Hosting, Dedicated Server: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:37:31] [scanner]   Proxy Xoay - Proxy Wan - Proxy 4G - Proxy Dân Cư: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:37:42] [scanner]   Cộng Đồng VPS/VPN-Proxy (Chợ MMO): 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:37:47] [scanner]   Chợ Proxy: Chia sẻ kinh nghiệm & Nguồn mua Proxy uy tín: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:37:54] [scanner]   OBC Proxy - Setup USB Dcom 3G/4G Proxy, thiết tạo Proxy Wan cáp quang: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:38:35] [scanner]   Chợ Proxy MMO Việt Nam | Mua Bán Proxy IPv4 IPv6 ISP Đa Quốc Gia: 3 trang, 5 bài mới (1 gửi, 0 seller, 4 trùng nội dung), bỏ qua 3 bài quá cũ
+[2026-10-18 03:38:39] [scanner]   Cộng đồng SOCK-PROXY-VPS chính hãng chất lượng cao (không đâm chọt): 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:38:43] [scanner]   RDPS VPS SALE BUY (AZURE,AWS, TENCENT CLOUD): 1 trang, 1 bài mới (1 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:38:47] [scanner]   Hội Mua Bán Proxy Giá Sỉ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:38:51] [scanner]   mua bán proxy - proxy giá rẻ -cộng đồng mua bán proxy: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:38:57] [scanner]   Top Proxy Review: Trao Đổi Kiến Thức & Mua Bán Proxy: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:39:01] [scanner]   Cộng đồng Cloud VPS - Máy chủ vật lý (Dedicated Server) - Colocation: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:39:05] [scanner]   Group review mua bán Proxy chính hãng: 1 trang, 1 bài mới (0 gửi, 0 seller, 1 trùng nội dung)
+[2026-10-18 03:39:09] [scanner]   Proxy Việt Nam -  Chia Sẻ Kiến Thức & Nguồn Mua Proxy Uy Tín 🇻🇳: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:39:15] [scanner]   Cộng Đồng Proxy - Box Proxy Wan - Mua Bán - Chia Sẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:39:20] [scanner]   Proxy Giá Rẻ Chất Lượng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:39:25] [scanner]   Cộng đồng proxy Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:39:29] [scanner]   Proxy v4 - v6 - Xoay Đa Quốc Gia: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung), bỏ qua 1 bài quá cũ
+[2026-10-18 03:39:39] [scanner]   CHỢ GIAO LƯU PROXY GIÁ RẺ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung), bỏ qua 4 bài quá cũ
+[2026-10-18 03:39:44] [scanner]   Cộng Đồng VPS Việt Nam Chính Hãng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:39:47] [scanner]   Cộng Đồng VPS Chính Hãng - VPS Free Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:39:50] [scanner]   Cộng Đồng VPS & Server Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:39:54] [scanner]   Cộng đồng VPS Việt Nam - VPS Chính Hãng Giá Rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung), bỏ qua 1 bài quá cũ
+[2026-10-18 03:39:57] [scanner]   VPS Không Ngon Xóa Group  - VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:40:36] [scanner]   Cộng Đồng Mua Bán Trao Đổi VPS Trial & VPS Chính Hãng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:40:40] [scanner]   XoayProxy.Com - Cộng Đồng Proxy Xoay , Vps , Giả Lập, Game, Mmo Việt Nam ✅: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:40:43] [scanner]   Cộng Đồng VPS Trial & VPS Chính Hãng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:40:45] [scanner]   Cộng Đồng VPS Trial & VPS Chính Hãng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:40:49] [scanner]   Cộng Đồng VPS Việt Nam & VPS Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:41:29] [scanner]   Cộng Đồng VPS Việt Nam, Vps Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:41:34] [scanner]   Cộng đồng VPS TRIAL, VPS Chính Hãng - Mua Bán VPS, AZURE: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:41:37] [scanner]   CỘNG ĐỒNG VPS VIỆT NAM - VPS TRIAL - VPS MIỄN PHÍ - TRAO ĐỔI KINH NGHIỆM: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:41:42] [scanner]   VPS Free - Cộng Đồng VPS Chính Hãng & VPS Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:41:49] [scanner]   Cộng Đồng VPS - Proxy Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:41:53] [scanner]   Cộng đồng VPS Chính Hãng Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung), bỏ qua 2 bài quá cũ
+[2026-10-18 03:41:56] [scanner]   Cộng Đồng VPS Việt Nam Chính Hãng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:41:58] [scanner]   VPS Chính Hãng Giá Rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:42:05] [scanner]   Cộng Đồng VPS Việt Nam, Vps trial - mua bán VPS: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:42:09] [scanner]   Cộng Đồng VPS Trial & VPS Chính Hãng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:42:12] [scanner]   CỘNG ĐỒNG VPS VIỆT NAM: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:42:17] [scanner]   Việc Làm Tại Nga – Tuyển Dụng Người Việt Ở Moscow & LB Nga: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:42:21] [scanner]   Cộng Đồng Check Out, Ebay, Alibaba, VPS, Domain, VPN ,.. Nhóm Công khai: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:42:25] [scanner]   MobiProxy - quản lý IP, tạo proxy từ gói mạng đa phiên: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:42:28] [scanner]   Proxy giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:42:32] [scanner]   Cộng đồng Minecraft Hosting & Cloud VPS: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung), bỏ qua 4 bài quá cũ
+[2026-10-18 03:42:36] [scanner]   Proxy Việt Nam - Mua Bán - Chia Sẻ Kiến Thức 🇻🇳: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:42:43] [scanner]   Proxy Review: Chia Sẻ Kiến Thức & Nguồn Mua Proxy Uy Tín  ✅: 2 trang, 3 bài mới (0 gửi, 0 seller, 3 trùng nội dung), bỏ qua 4 bài quá cũ
+[2026-10-18 03:42:45] [scanner]   Proxy Việt Nam - Mua Bán - Chia Sẻ Kiến Thức -  Hướng Dẫn Sử Dụng✅: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:42:49] [scanner]   Cộng Đồng Săn Sale Hosting Tên Miền VPS Server: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:42:53] [scanner]   VPS Không Ngon Xóa Group - VPS Chính Hãng ☑️: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:42:56] [scanner]   Cộng Đồng Proxy Tinh Hoa: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:43:01] [scanner]   Chợ Giao Lưu Proxy Giá Rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:43:05] [scanner]   Cộng đồng VPS, Proxy Giá rẻ Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:43:09] [scanner]   Mua Bán VPS Giá Rẻ - VPS VN - VPS Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung), bỏ qua 1 bài quá cũ
+[2026-10-18 03:43:13] [scanner]   RDP & VPS Provider (Residential or Datacentre): 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:43:17] [scanner]   DevOps Vietnam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:43:20] [scanner]   Cộng Đồng Vmos Cloudphone: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:43:24] [scanner]   VPS Proxy VPN dành cho MMO: 1 trang, 1 bài mới (0 gửi, 0 seller, 1 trùng nội dung)
+[2026-10-18 03:43:27] [scanner]   Cộng đồng VPS Việt Nam - VPS Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:43:27] [scanner] Đợt #8 xong: 118 group, 126 lần gọi API, 121 credit, 14 bài mới, 0 lỗi. Đợt kế tiếp lúc 2026-10-18 03:58:27
+[2026-10-18 03:43:28] [scanner] Ngoài khung giờ 07:30–00:00, chờ
+[2026-10-18 03:43:32] [scanner] Nhận tín hiệu dừng, sẽ thoát sau bước hiện tại
+[2026-10-18 03:43:32] [scanner] Đã dừng
+[2026-10-18 03:43:32] [scanner] Khởi động (PID 43405, PHP 8.2.4)
+[2026-10-18 03:43:32] [scanner] Ngoài khung giờ 07:30–00:00, chờ
+[2026-10-18 03:45:19] [scanner] Đợt #9 bắt đầu: 144 group đến hạn
+[2026-10-18 03:45:26] [scanner]   Proxy Review - Nguồn Mua Proxy Uy Tín ✅: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:45:29] [scanner]   Cộng Đồng VPS Việt Nam - VPS Free Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:45:38] [scanner]   Cộng đồng VPS Việt Nam - VPS Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:45:44] [scanner]   VPS Trail - VPS Việt Nam - Sever: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:45:48] [scanner]   HỖ TRỢ LẬP TRÌNH - CODE THEO YÊU CẦU: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:45:53] [scanner]   Cộng đồng Proxy , Vps , Giả Lập, Game, Mmo: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:45:57] [scanner]   Cộng Đồng Vps Việt Nam, Vps Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:00] [scanner]   VPS Chính Hãng Giá 50k: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:03] [scanner]   Cộng đồng VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:07] [scanner]   VPS Không Ngon Xóa Group - VPS Chính Hãng ☑️: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:10] [scanner]   Cộng Đồng Trao Đổi Proxy - VPS - Hosting: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:16] [scanner]   FREE PROXY-VPS :PROXY/VPS chia sẻ kiến thức Tool,AMZ,ebay,Drop.v.v..: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:20] [scanner]   Cộng Đồng VPS & Proxy Việt Nam  🇻🇳: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:24] [scanner]   Cộng đồng Proxy , Vps , Giả Lập, Game, Mmo ✅: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:35] [scanner]   Cộng đồng VPS VIỆT NAM - VPS FREE TRIAL: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:39] [scanner]   Cộng Đồng VPS Treo Game Giá Rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:43] [scanner]   VPS Không Ngon Xóa Group - VPS Chính Hãng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:46] [scanner]   Free VPS Windows - VPS Miễn Phí: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:51] [scanner]   Cộng Đồng VPS Việt ☢️: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:55] [scanner]   Nhóm VPS Chính Hãng Giá Rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:46:57] [scanner]   Cộng đồng VPS free - mua bán VPS, proxy giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:00] [scanner]   Proxy, MMO, VPS, Antidetect & Emulator Community: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:04] [scanner]   Cộng Đồng VPS VN - VPS Trial - Web Hosting - Server: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:09] [scanner]   Free VPS Windows - VPS Miễn Phí - share VPS miễn phí - mua bán VPS: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:14] [scanner]   Cộng Đồng VPS Việt Nam & VPS Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:18] [scanner]   ERENPROXY - Trao đổi mua bán VPS, Proxy: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:23] [scanner]   VPS & hosting ở đâu ngon?: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:27] [scanner]   Cộng đồng Server - VPS - Proxy Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:30] [scanner]   VPS Không Ngon Xóa Group - Cloud VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:33] [scanner]   FREE VPS/PROXY & Ebay,Tool,Amz..v.v...: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:36] [scanner]   Free VPS Windows - VPS Miễn Phí - share VPS miễn phí - mua bán VPS: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung), bỏ qua 2 bài quá cũ
+[2026-10-18 03:47:39] [scanner]   VPS Linux Giá Rẻ – Ubuntu & Cloud Server: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:48] [scanner]   Chợ Proxy - Mua bán proxy - VPS giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:52] [scanner]   Cộng đồng : Proxy, VPS, MMO, Proxy Xoay, Proxy Tĩnh, Proxy Dân Cư IPV4: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:56] [scanner]   Cộng đồng VPS Việt Nam - VPS giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:47:59] [scanner]   Cộng Đồng VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:48:38] [scanner]   VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:48:41] [scanner]   VPS - Proxy - Cloud Phone - Treo Game 24/7: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:48:49] [scanner]   Cộng đồng Proxy - VPS - Server MMO giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:48:52] [scanner]   VPS Myanmar Group: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:48:55] [scanner]   Socks - Proxy - VPS | Free Or Cheap: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:49:00] [scanner]   VPS Giá Rẻ - Hosting - Proxy: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:49:04] [scanner]   Cộng đồng Server - VPS - Proxy Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:49:18] [scanner]   755798908831889: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:49:21] [scanner]   Cộng Đồng Proxy Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:49:24] [scanner]   VPS Không Ngon Xoá Group: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:49:34] [scanner]   Proxy Xoay - Proxy Wan - Proxy Datacenter - Proxy Dân Cư: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:49:37] [scanner]   Cộng Đồng VPS - Proxy private - VIETNAM: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:49:42] [scanner]   Windows VPS Server: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:50:27] [scanner]   VPS SERVER: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:50:30] [scanner]   VPS - HOSTING - SERVER - MÁY CHỦ VIỆT NAM: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:50:33] [scanner]   Cộng đồng VPS Chính hãng tại Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:50:37] [scanner]   Cộng Đồng VPS Việt Nam Chính Hãng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:50:56] [scanner]   Cộng Đồng Stream - Setup Stream - DC Hiệu ứng live: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:51:01] [scanner]   Cộng đồng Proxy - VPS - Server MMO giá rẻ: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:51:48] [scanner]   Cộng đồng VPS PROXY Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:51:54] [scanner]   VPS Việt Nam treo game: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:51:57] [scanner]   Cộng Đồng Linux VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:52:00] [scanner]   VPS Free - VPS Chính Hãng - VPS Trial: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:52:03] [scanner]   Cộng Đồng VPS Việt Nam: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:52:11] [scanner]   Cộng đồng VPS - RDP Việt Nam ☑️: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 03:52:15] [scanner]   Cộng Đồng VPS Trail & VPS Chính Hãng: 1 trang, 0 bài mới (0 gửi, 0 seller, 0 trùng nội dung)
+[2026-10-18 09:49:09] [scanner] Khởi động (PID 1169, PHP 8.2.4)
+[2026-10-18 09:49:09] [scanner] Chưa kết nối được DB (SQLSTATE[HY000] [2002] Connection refused), thử lại mỗi 10s
+[2026-10-18 10:02:02] [scanner] Nhận tín hiệu dừng, sẽ thoát sau bước hiện tại
+[2026-10-18 10:02:02] [scanner] Đã dừng
+[2026-10-18 10:12:11] [scanner] Khởi động (PID 848, PHP 8.2.4)
+[2026-10-18 10:12:11] [scanner] Chưa kết nối được DB (SQLSTATE[HY000] [2002] Connection refused), thử lại mỗi 10s
