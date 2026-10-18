@@ -69,3 +69,8 @@
 [2026-10-18 10:02:02] [bot] Đã dừng
 [2026-10-18 10:12:11] [bot] Khởi động (PID 841, PHP 8.2.4)
 [2026-10-18 10:12:11] [bot] Chưa kết nối được DB (SQLSTATE[HY000] [2002] Connection refused), thử lại mỗi 10s
+[2026-10-18 10:35:41] [bot] Đã kết nối lại DB
+[2026-10-18 10:35:42] [bot] Đã kết nối bot @scan_facebook_posts_bot
+[2026-10-18 10:36:05] [bot] Đã gửi 1 tin
+[2026-10-18 10:36:45] [bot] Đã gửi 1 tin
+[2026-10-18 10:37:13] [bot] Đã gửi 2 tin
